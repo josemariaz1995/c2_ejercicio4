@@ -12,7 +12,6 @@ function modificaPares(array, funcion) {
     }
   }
   return arrayParaRellenar;
-  console.log(arrayParaRellenar);
 }
 
 let palabrasParesModificadas = modificaPares(
